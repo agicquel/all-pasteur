@@ -1,0 +1,15 @@
+[submodule "api-pasteur"]
+	path = api-pasteur
+	url = https://github.com/agicquel/api-pasteur
+[submodule "lopy-pasteur"]
+	path = lopy-pasteur
+	url = https://github.com/agicquel/lopy-pasteur
+[submodule "app-pasteur"]
+	path = app-pasteur
+	url = https://github.com/agicquel/app-pasteur
+[submodule "lora_logger_rpi"]
+	path = lora_logger_rpi
+	url = https://github.com/agicquel/lora_logger_rpi
+[submodule "esp-pasteur"]
+	path = esp-pasteur
+	url = https://github.com/agicquel/esp-pasteur
