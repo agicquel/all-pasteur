@@ -5,5 +5,5 @@ The documentation is available at the following [in construction].
 
 ## To clone this repo with all its submodules
 ```
-git clone --recursive git@github.com:agicquel/all-pasteur.git
+git clone --recursive https://github.com/agicquel/all-pasteur
 ```

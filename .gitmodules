@@ -13,3 +13,6 @@
 [submodule "esp-pasteur"]
 	path = esp-pasteur
 	url = https://github.com/agicquel/esp-pasteur
+[submodule "display-pasteur"]
+	path = display-pasteur
+	url = https://github.com/Jarlisco/display-pasteur
